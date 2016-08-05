@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Balloongame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Balloongame_jar</output-path>
+    <root id="archive" name="Balloongame.jar">
+      <element id="module-output" name="Balloongame" />
+    </root>
+  </artifact>
+</component>
